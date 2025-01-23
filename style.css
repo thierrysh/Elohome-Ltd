@@ -1,9 +1,5 @@
 /* =====================================
-Template Name: Eshop
-Author Name: Naimur Rahman
-Author URI: http://www.wpthemesgrid.com/
-Description: Eshop - eCommerce HTML5 Template.
-Version:1.0
+
 ========================================*/
 /*======================================
 [ CSS Table of contents ]
@@ -1190,7 +1186,7 @@ Version:1.0
 }
 .hero-slider .single-slider {
 	height: auto;
-	background-image: url('slider-image22.jpg');
+	background-image: url('slider-image22.JPG');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
